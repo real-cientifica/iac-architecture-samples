@@ -1,0 +1,7 @@
+com\realcientifica\smallsmartcity\controller\InicioController.class
+com\realcientifica\smallsmartcity\controller\LoginController.class
+com\realcientifica\smallsmartcity\controller\TerraformController.class
+com\realcientifica\smallsmartcity\controller\IDCSController.class
+com\realcientifica\smallsmartcity\terraform\ProcessLauncher.class
+com\realcientifica\smallsmartcity\terraform\TerraformClient.class
+com\realcientifica\smallsmartcity\terraform\TerraformOptions.class

@@ -1,0 +1,6 @@
+COMO USAR: 
+
+Todos os arquivos desta pasta menos este "READ ME" devem ser colocados em C:\Users\SEUUSUARIO\terraform
+Você deverá incluir o executavel "terraform.exe" na variavel "path" em "variáveis de ambiente do sistema do windows"
+
+Sentimos muito, mas não podemos deixar as váriaveis ja pré setadas para testarem, pois elas lhe dariam acesso as informações sigilosas de acesso da empresa, evitando que acabem criando recursos acidentalmente, logo se nào possuirem uma conta empresaril na Oracle Cloud não conseguirão testar o sistema

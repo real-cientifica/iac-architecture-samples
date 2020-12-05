@@ -1,0 +1,6 @@
+{
+  "registry.terraform.io/hashicorp/oci": {
+    "hash": "h1:DJBgcWVlRXtNN/frrCyxf4Q8xOTspzOiWtX6tm4M0dg=",
+    "version": "4.4.0"
+  }
+}
